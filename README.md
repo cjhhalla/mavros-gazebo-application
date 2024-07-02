@@ -31,7 +31,7 @@
     $ git reset --hard 6823cbc
     $ git submodule update --init --recursive
     
-    $ source PX4-Autopilot/Tools/setup/ubuntu.sh --no-sim-tools --no-nuttx
+    $ source ~/PX4-Autopilot/Tools/setup/ubuntu.sh --no-sim-tools --no-nuttx
 ~~~
 + To run, set up the path and environments
 ~~~shell
